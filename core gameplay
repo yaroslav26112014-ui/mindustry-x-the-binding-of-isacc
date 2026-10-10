@@ -1,0 +1,18 @@
+{
+  "mode": "solo",
+  "primary": "mindustry",
+  "companion": "the-binding-of-isaac-rebirth",
+  "opening": [
+    "spawn_core",
+    "collect_resources",
+    "select_isaac_item",
+    "build_production",
+    "prepare_for_wave"
+  ],
+  "systems": [
+    "resource_production",
+    "item_synergies",
+    "turret_modifiers",
+    "wave_survival"
+  ]
+}
