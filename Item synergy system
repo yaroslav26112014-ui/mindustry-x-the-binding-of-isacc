@@ -1,0 +1,14 @@
+{
+  "source": "player_installed_isaac_copy",
+  "effects": [
+    {
+      "system": "combat",
+      "properties": ["damage", "range", "fire_rate"]
+    },
+    {
+      "system": "production",
+      "properties": ["speed", "efficiency", "yield"]
+    }
+  ],
+  "validation": "verify_each_item_against_source"
+}
