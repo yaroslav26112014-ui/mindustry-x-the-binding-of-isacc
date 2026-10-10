@@ -1,0 +1,8 @@
+{
+  "host": "mindustry",
+  "companion": "the-binding-of-isaac-rebirth",
+  "multiplayer": false,
+  "ship_game_assets": false,
+  "read_companion_files_at_runtime": true,
+  "launch_and_install": "must_be_verified"
+}
